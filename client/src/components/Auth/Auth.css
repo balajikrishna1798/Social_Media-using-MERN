@@ -1,0 +1,9 @@
+.videoBG{
+   
+    padding-top:50px;
+    padding-bottom:70px;
+    width:60%;
+    left:50%;
+    top:50%;
+    transform: translate(-50%, -50%)
+}
