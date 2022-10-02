@@ -1,0 +1,7 @@
+.RightBartext {
+    font-size: 20px;
+    background: -webkit-linear-gradient(rgb(13, 57, 255), rgb(255, 137, 2));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+

@@ -1,0 +1,9 @@
+.search{
+    width:140px;
+    height: 30px;
+    border-radius: 15px;
+    -webkit-transition: all 300ms ease-in-out;
+}
+.search:focus{
+    width: 190px;
+}
